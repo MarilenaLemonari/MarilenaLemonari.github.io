@@ -1,6 +1,6 @@
 ## Short Bio
 
-Γειά σας, I am Marilena Lemonari is a second-year PhD student of Computer Science at the University of Cyprus (UCY) under CLIPE, a Horizon Marie-Curie ITN project.
+Γειά σας! I am Marilena Lemonari and currently I am a PhD student of Computer Science at the University of Cyprus (UCY) under CLIPE, a Horizon Marie-Curie ITN project.
 Before that, Ι was awarded my MSc in Machine Learning from UCL (2020).
 In 2019, Ι received my BSc in Mathematics from the University of Nottingham.
 Recently, Ι have completed my 3-month secondment at Inria as a research guest, during which, she has worked on intuitive control for characters and small groups. 
