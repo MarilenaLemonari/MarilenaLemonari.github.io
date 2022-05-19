@@ -6,10 +6,11 @@
 Recently, Ι have completed my 3-month secondment at Inria as a research guest, during which, she has worked on intuitive control for characters and small groups. 
 As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve around crowd control and authoring, machine learning for computer graphics and behavioural crowd simulation.
 
-## Profile
-- Social Media: [LinkedIn](http://www.linkedin.com/in/marilena-lemonari-b78a83151)
-
-- Email: [lemonari.marilena@ucy.ac.cy](mailto:lemonari.marilena@ucy.ac.cy)
+## Online Presence
+- Social Media: [LinkedIn](http://www.linkedin.com/in/marilena-lemonari-b78a83151), [Twitter](https://twitter.com/marilenalemonar)
+- Contact me: [lemonari.marilena@ucy.ac.cy](mailto:lemonari.marilena@ucy.ac.cy)
+- Associated Teams: [Clipe Project](https://www.clipe-itn.eu/), [Graphics Lab UCY](https://graphics.cs.ucy.ac.cy/people)
+- Other: [ORCHID iD](https://orcid.org/0000-0001-9854-3369), [ResearchGate](https://www.researchgate.net/profile/Marilena-Lemonari)
 
 ## Publications
 **Eurographics 2022:** 'Authoring Virtual Crowds: A Survey'\
