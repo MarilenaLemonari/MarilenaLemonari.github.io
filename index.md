@@ -4,6 +4,9 @@
 Recently, Ι have completed my 3-month secondment at Inria as a research guest, during which, she has worked on intuitive control for characters and small groups. 
 As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve around crowd control and authoring, machine learning for computer graphics and behavioural crowd simulation.
 
+## Profile
+Social Media: [LinkedIn](http://www.linkedin.com/in/marilena-lemonari-b78a83151)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
