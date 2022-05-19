@@ -1,5 +1,3 @@
-# Homepage
-
 ## Short Bio
 Γειά σας! I am Marilena Lemonari and currently, I am a PhD student of **Computer Science/Graphics** at the _University of Cyprus (UCY)_ under _CLIPE_, a Horizon Marie-Curie ITN project. Before that, Ι was awarded my MSc in **Machine Learning** from _UCL_ (2020). In 2019, Ι received my BSc in **Mathematics** from _The University of Nottingham_.
 
@@ -10,9 +8,9 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 - Social Media: [LinkedIn](http://www.linkedin.com/in/marilena-lemonari-b78a83151), [Twitter](https://twitter.com/marilenalemonar)
 - Contact me: [lemonari.marilena@ucy.ac.cy](mailto:lemonari.marilena@ucy.ac.cy)
 - Other: [ORCHID iD](https://orcid.org/0000-0001-9854-3369), [ResearchGate](https://www.researchgate.net/profile/Marilena-Lemonari)
+- Associated Teams: [Clipe Project](https://www.clipe-itn.eu/clipe-team), [V-EUPNEA](https://www.cyens.org.cy/en-gb/research/pillars-groups/visual-sciences/v-eupnea/), [UCY Graphics Lab](https://graphics.cs.ucy.ac.cy/people)
  <!--- 
-- Associated Teams: [Clipe Project](https://www.clipe-itn.eu/clipe-team), [Graphics Lab UCY](https://graphics.cs.ucy.ac.cy/people),
--  [VirtUs](), [V-EUPNEA]()
+-  [VirtUs]()
 --->
 
 ## Publications
@@ -38,6 +36,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 - Guest Researcher: February-May 2022 _(Inria, Rennes, FR)_
 
 ## Higher Education
+
 ### Computer Science Ph.D. _(Ongoing)_
 _University of Cyprus (UCY), CY_
 > Topic: 'Intuitive control for virtual characters and groups'.\
@@ -45,6 +44,7 @@ _University of Cyprus (UCY), CY_
 > Related Modules:
 > - Computer Games Software Technology
 > - Object-Oriented Programming
+
 ### Machine Learning MSc. 
 _University College London (UCL), UK_
 > Dissertation: 'Characterising CNN and LSTM-based dissimilarity measure for monkey neural recordings'.\
@@ -52,6 +52,7 @@ _University College London (UCL), UK_
 > Related Modules:
 > - Applied Machine Learning 
 > - Machine Vision
+
 ### Mathematics BSc.
 _The University of Nottingham (UoN), UK_
 > Related Modules:
