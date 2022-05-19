@@ -14,4 +14,13 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 [webpage](https://diglib.eg.org/handle/10.1111/cgf14506)
 
 **SIGGRAPH 2022:** CCP: Configurable Crowd Profiles\
-[youtube](https://youtu.be/k5SAOnisBas)
+[video](https://youtu.be/k5SAOnisBas)
+
+## CLIPE
+[website](https://www.clipe-itn.eu/)
+### Training Workshops
+1. Summer School on Virtual Humans _(UCY, Ayia Napa, CY)_
+2. Workshop on EU Funding, grant writing and career advancement _(Inria, Rennes, FR)_
+
+### Secondments
+- Guest Researcher: February-May 2022 _(Inria, Rennes, FR)_
