@@ -10,9 +10,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 - Contact me: [lemonari.marilena@ucy.ac.cy](mailto:lemonari.marilena@ucy.ac.cy)
 - Other: [ORCHID iD](https://orcid.org/0000-0001-9854-3369), [ResearchGate](https://www.researchgate.net/profile/Marilena-Lemonari)
 - Associated Teams: [Clipe Project](https://www.clipe-itn.eu/clipe-team), [V-EUPNEA](https://www.cyens.org.cy/en-gb/research/pillars-groups/visual-sciences/v-eupnea/), [UCY Graphics Lab](https://graphics.cs.ucy.ac.cy/people)
- <!--- 
--  [VirtUs]()
---->
+ <!--- [VirtUs]() --->
 
 ## Publications
 **Eurographics 2022:** 'Authoring Virtual Crowds: A Survey'\
