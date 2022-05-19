@@ -10,10 +10,10 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 - Email: [lemonari.marilena@ucy.ac.cy](mailto:lemonari.marilena@ucy.ac.cy)
 
 ## Publications
-**Eurographics 2022:** Authoring Virtual Crowds: A Survey\
+**Eurographics 2022:** 'Authoring Virtual Crowds: A Survey'\
 [webpage](https://diglib.eg.org/handle/10.1111/cgf14506)
 
-**SIGGRAPH 2022:** CCP: Configurable Crowd Profiles\
+**SIGGRAPH 2022:** 'CCP: Configurable Crowd Profiles'\
 [video](https://youtu.be/k5SAOnisBas)
 
 ## CLIPE <img src="https://user-images.githubusercontent.com/94784611/169313441-9d89ef8d-8b66-4cdf-94c6-81f5f8c0c691.jpg" width="40" height="20" />
