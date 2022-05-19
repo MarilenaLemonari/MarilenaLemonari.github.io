@@ -37,7 +37,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 
 ## Higher Education
 
-### Computer Science Ph.D. _(Ongoing)_
+### Computer Science Ph.D. <img src="https://user-images.githubusercontent.com/94784611/169335565-a4e807a1-68a6-47bc-ab55-148b516203e0.png" width="20" height="20" /> _(Ongoing)_ 
 _University of Cyprus (UCY), CY_
 > Topic: 'Intuitive control for virtual characters and groups'.\
 > Lab: [Graphics Lab UCY](https://graphics.cs.ucy.ac.cy/people)\
@@ -45,7 +45,7 @@ _University of Cyprus (UCY), CY_
 > - Computer Games Software Technology
 > - Object-Oriented Programming
 
-### Machine Learning MSc. 
+### Machine Learning MSc. <img src="https://user-images.githubusercontent.com/94784611/169335969-29b56297-6bb9-4faa-ac19-5b78f226dc58.png" width="45" height="15" /> 
 _University College London (UCL), UK_
 > Dissertation: 'Characterising CNN and LSTM-based dissimilarity measure for monkey neural recordings'.\
 > Lab: [Love Lab](https://www.ucl.ac.uk/pals/research/experimental-psychology/lab/love-lab/)\
@@ -53,7 +53,7 @@ _University College London (UCL), UK_
 > - Applied Machine Learning 
 > - Machine Vision
 
-### Mathematics BSc.
+### Mathematics BSc. <img src="https://user-images.githubusercontent.com/94784611/169336438-373ee177-a951-41e2-ac8a-d3dcd9b3d2cd.png" width="45" height="25" /> 
 _The University of Nottingham (UoN), UK_
 > Related Modules:
 > - Applied Statistical Modelling
