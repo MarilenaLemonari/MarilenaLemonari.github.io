@@ -38,21 +38,21 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 - Guest Researcher: February-May 2022 _(Inria, Rennes, FR)_
 
 ## Higher Education
-### Computer Science PhD _(Ongoing)_
+### Computer Science Ph.D. _(Ongoing)_
 _University of Cyprus (UCY), CY_
 > Topic: 'Intuitive control for virtual characters and groups'.\
 > Lab: [Graphics Lab UCY](https://graphics.cs.ucy.ac.cy/people)\
 > Related Modules:
 > - Computer Games Software Technology
 > - Object-Oriented Programming
-### Machine Learning MSc 
+### Machine Learning MSc. 
 _University College London (UCL), UK_
 > Dissertation: 'Characterising CNN and LSTM-based dissimilarity measure for monkey neural recordings'.\
 > Lab: [Love Lab](https://www.ucl.ac.uk/pals/research/experimental-psychology/lab/love-lab/)\
 > Related Modules:
 > - Applied Machine Learning 
 > - Machine Vision
-### Mathematics BSc
+### Mathematics BSc.
 _The University of Nottingham (UoN), UK_
 > Related Modules:
 > - Applied Statistical Modelling
