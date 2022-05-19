@@ -63,4 +63,9 @@ _The University of Nottingham (UoN), UK_
 > - Applied Statistical Modelling
 > - Scientific Computation and Numerical Analysis  
 > - Optimization
-<!--- > Awards: --->
+<!--- 
+> Awards: First Martin Pluck G100 Prize, Undergraduate Academic Excellence Award [2018-19](https://www.nottingham.ac.uk/mathematics/news/1819-school-prize-winners.aspx),
+ The BP Student Prize for Mathematics,
+ The Harold Farnsworth OBE Prize [2017-18](https://www.nottingham.ac.uk/mathematics/news/2017-20/2018-school-prize-winners.aspx),
+ School Achievement Prize [2016-17](https://www.nottingham.ac.uk/mathematics/news/2013-16/2016-2017-school-prize-winners.aspx).
+--->
