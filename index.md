@@ -15,7 +15,10 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 
 ## Publications
 **Eurographics 2022:** 'Authoring Virtual Crowds: A Survey'\
-[webpage](https://diglib.eg.org/handle/10.1111/cgf14506)
+[webpage](https://diglib.eg.org/handle/10.1111/cgf14506)  
+<!---
+<img src="https://user-images.githubusercontent.com/94784611/169337676-3a4db111-654f-4996-83d7-adb227a307a8.png" width="30" height="30" />
+---> 
 
 **SIGGRAPH 2022:** 'CCP: Configurable Crowd Profiles'\
 [video](https://youtu.be/k5SAOnisBas)
@@ -26,21 +29,21 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 --->
 
 ## CLIPE <img src="https://user-images.githubusercontent.com/94784611/169313441-9d89ef8d-8b66-4cdf-94c6-81f5f8c0c691.jpg" width="40" height="20" />
-[website](https://www.clipe-itn.eu/)
+[website](https://www.clipe-itn.eu/), [LinkedIn](https://cy.linkedin.com/company/clipe-marie-curie-project), [Twitter](https://mobile.twitter.com/clipecurie)
 
 ### Training Workshops
 1. Summer School on Virtual Humans _(UCY, Ayia Napa, CY)_
 2. Workshop on EU Funding, grant writing and career advancement _(Inria, Rennes, FR)_
 
 ### Secondments
-- Guest Researcher: February-May 2022 _(Inria, Rennes, FR)_
+- Guest Researcher: February-May 2022 _(Inria, Rennes, FR)_ <img src="https://user-images.githubusercontent.com/94784611/169338935-84554970-4b6c-45b7-995e-66f3b8c9580b.jpg" width="40" height="15" />
 
 ## Higher Education
 
 ### Computer Science Ph.D. <img src="https://user-images.githubusercontent.com/94784611/169335565-a4e807a1-68a6-47bc-ab55-148b516203e0.png" width="20" height="20" /> _(Ongoing)_ 
 _University of Cyprus (UCY), CY_
 > Topic: 'Intuitive control for virtual characters and groups'.\
-> Lab: [Graphics Lab UCY](https://graphics.cs.ucy.ac.cy/people)\
+> Lab: [UCY Graphics Lab](https://graphics.cs.ucy.ac.cy/people)\
 > Related Modules:
 > - Computer Games Software Technology
 > - Object-Oriented Programming
