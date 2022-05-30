@@ -22,7 +22,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 **SIGGRAPH 2022:** 'CCP: Configurable Crowd Profiles'\
 [webpage](https://marilenalemonari.github.io/CCP-Configurable-Crowd-Profiles/), [video](https://youtu.be/k5SAOnisBas)
 
-**IEEE Computer Graphics & Applications:** 'Digitizing Wildlife: The case of reptiles 3D virtual museum'\
+**IEEE Computer Graphics & Applications 2022:** 'Digitizing Wildlife: The case of reptiles 3D virtual museum'\
 [webpage](https://www.researchgate.net/publication/360454865_Digitizing_Wildlife_The_case_of_reptiles_3D_virtual_museum)
 
 
