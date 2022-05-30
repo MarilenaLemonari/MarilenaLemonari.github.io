@@ -5,14 +5,14 @@
 Recently, Ι have completed my 3-month secondment at Inria as a research guest, during which, she has worked on intuitive control for characters and small groups. 
 As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve around crowd control and authoring, machine learning for computer graphics and behavioural crowd simulation.
 
-## Online Presence:
+## <u>Find me</u>:
 - Social Media: [LinkedIn](http://www.linkedin.com/in/marilena-lemonari-b78a83151), [Twitter](https://twitter.com/marilenalemonar)
 - Contact me: [lemonari.marilena@ucy.ac.cy](mailto:lemonari.marilena@ucy.ac.cy)
 - Other: [ORCHID iD](https://orcid.org/0000-0001-9854-3369), [ResearchGate](https://www.researchgate.net/profile/Marilena-Lemonari)
 - Associated Teams: [Clipe Project](https://www.clipe-itn.eu/clipe-team), [V-EUPNEA](https://www.cyens.org.cy/en-gb/research/pillars-groups/visual-sciences/v-eupnea/), [UCY Graphics Lab](https://graphics.cs.ucy.ac.cy/people)
  <!--- [VirtUs]() --->
 
-## Publications:
+## <u>Publications</u>:
 **Eurographics 2022:** 'Authoring Virtual Crowds: A Survey'\
 [webpage](https://diglib.eg.org/handle/10.1111/cgf14506)  
 <!---
@@ -27,7 +27,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 [webpage](https://www.researchgate.net/publication/360454865_Digitizing_Wildlife_The_case_of_reptiles_3D_virtual_museum)
 --->
 
-## CLIPE <img src="https://user-images.githubusercontent.com/94784611/169313441-9d89ef8d-8b66-4cdf-94c6-81f5f8c0c691.jpg" width="40" height="20" />
+## <u>CLIPE</u> <img src="https://user-images.githubusercontent.com/94784611/169313441-9d89ef8d-8b66-4cdf-94c6-81f5f8c0c691.jpg" width="40" height="20" />
 [website](https://www.clipe-itn.eu/), [LinkedIn](https://cy.linkedin.com/company/clipe-marie-curie-project), [Twitter](https://mobile.twitter.com/clipecurie)
 
 ### Training Workshops
@@ -37,7 +37,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 ### Secondments
 - Guest Researcher: February-May 2022 _(Inria, Rennes, FR)_ <img src="https://user-images.githubusercontent.com/94784611/169338935-84554970-4b6c-45b7-995e-66f3b8c9580b.jpg" width="40" height="15" />
 
-## Higher Education:
+## <u>Higher Education</u>:
 
 ### Computer Science Ph.D. <img src="https://user-images.githubusercontent.com/94784611/169335565-a4e807a1-68a6-47bc-ab55-148b516203e0.png" width="20" height="20" /> _(Ongoing)_ 
 _University of Cyprus (UCY), CY_
