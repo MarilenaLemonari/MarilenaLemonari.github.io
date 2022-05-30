@@ -29,11 +29,11 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 ## <u>CLIPE</u> <img src="https://user-images.githubusercontent.com/94784611/169313441-9d89ef8d-8b66-4cdf-94c6-81f5f8c0c691.jpg" width="40" height="20" />
 [website](https://www.clipe-itn.eu/), [LinkedIn](https://cy.linkedin.com/company/clipe-marie-curie-project), [Twitter](https://mobile.twitter.com/clipecurie)
 
-### Training Workshops
+### 1. Training Workshops
 1. Summer School on Virtual Humans _(UCY, Ayia Napa, CY)_
 2. Workshop on EU Funding, grant writing and career advancement _(Inria, Rennes, FR)_
 
-### Secondments
+### 2. Secondments
 - Visiting PhD Student: February-May 2022 _(Inria, Rennes, FR)_ <img src="https://user-images.githubusercontent.com/94784611/169338935-84554970-4b6c-45b7-995e-66f3b8c9580b.jpg" width="40" height="15" />
 
 ## <u>Higher Education</u>:
