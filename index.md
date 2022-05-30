@@ -9,7 +9,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 - Social Media: [LinkedIn](http://www.linkedin.com/in/marilena-lemonari-b78a83151), [Twitter](https://twitter.com/marilenalemonar)
 - Contact me: [lemonari.marilena@ucy.ac.cy](mailto:lemonari.marilena@ucy.ac.cy)
 - Other: [ORCHID iD](https://orcid.org/0000-0001-9854-3369), [ResearchGate](https://www.researchgate.net/profile/Marilena-Lemonari)
-- Associated Teams: [Clipe Project](https://www.clipe-itn.eu/clipe-team), [V-EUPNEA](https://www.cyens.org.cy/en-gb/research/pillars-groups/visual-sciences/v-eupnea/), [UCY Graphics Lab](https://graphics.cs.ucy.ac.cy/people)
+- Associated Teams: [Clipe Project](https://www.clipe-itn.eu/clipe-team), [UCY Graphics Lab](https://graphics.cs.ucy.ac.cy/people), [V-EUPNEA](https://www.cyens.org.cy/en-gb/research/pillars-groups/visual-sciences/v-eupnea/)
  <!--- [VirtUs]() --->
 
 ## <u>Publications</u>:
@@ -20,12 +20,11 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 ---> 
 
 **SIGGRAPH 2022:** 'CCP: Configurable Crowd Profiles'\
-[website](https://marilenalemonari.github.io/CCP-Configurable-Crowd-Profiles/), [video](https://youtu.be/k5SAOnisBas)
+[webpage](https://marilenalemonari.github.io/CCP-Configurable-Crowd-Profiles/), [video](https://youtu.be/k5SAOnisBas)
 
-<!---
-**IEEE:** 'Digitizing Wildlife: The case of reptiles 3D virtual museum'
+**IEEE:** 'Digitizing Wildlife: The case of reptiles 3D virtual museum'\
 [webpage](https://www.researchgate.net/publication/360454865_Digitizing_Wildlife_The_case_of_reptiles_3D_virtual_museum)
---->
+
 
 ## <u>CLIPE</u> <img src="https://user-images.githubusercontent.com/94784611/169313441-9d89ef8d-8b66-4cdf-94c6-81f5f8c0c691.jpg" width="40" height="20" />
 [website](https://www.clipe-itn.eu/), [LinkedIn](https://cy.linkedin.com/company/clipe-marie-curie-project), [Twitter](https://mobile.twitter.com/clipecurie)
