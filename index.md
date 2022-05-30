@@ -27,7 +27,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 
 
 ## <u>CLIPE</u> <img src="https://user-images.githubusercontent.com/94784611/169313441-9d89ef8d-8b66-4cdf-94c6-81f5f8c0c691.jpg" width="40" height="20" />
-[website](https://www.clipe-itn.eu/), [LinkedIn](https://cy.linkedin.com/company/clipe-marie-curie-project), [Twitter](https://mobile.twitter.com/clipecurie)
+[website](https://www.clipe-itn.eu/), [LinkedIn](https://cy.linkedin.com/company/clipe-marie-curie-project), [Twitter](https://mobile.twitter.com/clipecurie), [Zenodo](https://zenodo.org/communities/clipeproject/?page=1&size=20)
 
 ### 1. Training Workshops
 1. Summer School on Virtual Humans _(UCY, Ayia Napa, CY)_
