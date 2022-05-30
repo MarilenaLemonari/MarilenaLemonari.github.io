@@ -54,7 +54,7 @@ _University College London (UCL), UK_
 > - Applied Machine Learning 
 > - Machine Vision
 
-### Mathematics BSc. <img src="https://user-images.githubusercontent.com/94784611/169336438-373ee177-a951-41e2-ac8a-d3dcd9b3d2cd.png" width="45" height="25" /> 
+### Mathematics BSc. <img src="https://user-images.githubusercontent.com/94784611/169336438-373ee177-a951-41e2-ac8a-d3dcd9b3d2cd.png" width="50" height="25" /> 
 _The University of Nottingham (UoN), UK_
 > Related Modules:
 > - Applied Statistical Modelling
