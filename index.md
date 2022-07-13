@@ -17,6 +17,7 @@ As an Early-Stage Researcher (ESR) for CLIPE, my research interests revolve arou
 [webpage](https://diglib.eg.org/handle/10.1111/cgf14506)  
 <!---
 <img src="https://user-images.githubusercontent.com/94784611/169337676-3a4db111-654f-4996-83d7-adb227a307a8.png" width="30" height="30" />
+https://www.youtube.com/watch?v=qdvhZCcnyRc&t=9456s&ab_channel=Eurographics2022
 ---> 
 
 **SIGGRAPH 2022:** 'CCP: Configurable Crowd Profiles'\
