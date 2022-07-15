@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=qdvhZCcnyRc&t=9456s&ab_channel=Eurographics2022
 [code/website](https://github.com/veupnea/CCP), [video](https://youtu.be/k5SAOnisBas), [fast-forward](https://www.youtube.com/watch?v=VkHZQYRP0w4&ab_channel=AndreasPanayiotou), [webpage](https://marilenalemonari.github.io/CCP-Configurable-Crowd-Profiles/)
 
 **IEEE Computer Graphics & Applications 2022:** 'Digitizing Wildlife: The case of reptiles 3D virtual museum'\
-[webpage](https://www.researchgate.net/publication/360454865_Digitizing_Wildlife_The_case_of_reptiles_3D_virtual_museum)
+[webpage](https://www.researchgate.net/publication/360454865_Digitizing_Wildlife_The_case_of_reptiles_3D_virtual_museum), [video](https://www.youtube.com/watch?v=XMKrYtG3wos&ab_channel=AndreasAristidou)
 
 
 ## <u>CLIPE</u> <img src="https://user-images.githubusercontent.com/94784611/169313441-9d89ef8d-8b66-4cdf-94c6-81f5f8c0c691.jpg" width="40" height="20" />
